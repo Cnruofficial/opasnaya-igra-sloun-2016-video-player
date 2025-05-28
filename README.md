@@ -1,1 +1,1 @@
-# opasnaya-igra-sloun-video-player-
+# opasnaya-igra-sloun-video-player
